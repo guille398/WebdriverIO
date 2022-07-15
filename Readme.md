@@ -1,5 +1,5 @@
-This a WebDriverIO example project
-
+# This a WebDriverIO example project
+***
 
 In order to get this working you need to have install Node in your machine and execute the following commands in the terminal of your IDE:
 
